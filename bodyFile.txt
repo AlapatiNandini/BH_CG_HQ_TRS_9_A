@@ -1,0 +1,26 @@
+﻿<!DOCTYPE html><!DOCTYPE html><head>
+<style>
+table 
+{
+font-family:Calibri;
+font-size:12;
+border-color:#660066;
+background-color:#f2f2f2;
+}
+</style>
+</head><body><table border=2 cellpadding=1 cellpadding=1>
+<tr style="background-color:#00ffcc;">
+<th>SSO ID</th>
+<th>Request Number</th>
+<th>Bot Submission Status</th>
+</tr>
+<tr>
+<td>212724765</td>
+<td>203457106</td>
+<td style="background-color:#ff0000;">Success</td>
+<tr>
+<td style="background-color:#00cc66;">503141154</td>
+<td style="background-color:#00cc66;">203457135</td>
+<td style="background-color:#00cc66;">Success</td>
+</tr>
+</table></font></body></html>

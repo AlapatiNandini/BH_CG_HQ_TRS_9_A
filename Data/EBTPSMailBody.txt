@@ -1,0 +1,52 @@
+<html>
+<body>
+<p><img src=""data:image/jpeg;base64,{0}""/><p style=""color:darkgreen; font-size:20px;"">
+<b>Dear Manager,</b>
+</p>Please complete the Quarterly Certification for each of your direct reports, who have User access to Electronic Bank Platforms (EBTPS) for Baker Hughes bank accounts. You will need to Certify if the User access should be maintained as-is "or" revoked.</br></br>Certification should be completed online by clicking the Support Central link below:</br></br><a href={1}>{1}</a>
+</br></br>Then, follow the set of instructions below for Scenario A or B depending on what is on your screen.  </br>
+</br><b>Scenario A.The list of users you are viewing <span style=""color: red;"">ONLY</span> contains your direct reports (if you see more users than just your direct reports scroll down to B:</b></br></br>
+You need to decide Users whose access should be maintained and whose access should be revoked.  Steps 1 to 5 deal with Certification of Users whose access should be maintained "as-is". Steps 6 to 10 deal with Certification of Users whose access should be removed/revoked.</br></br>
+<p>&emsp;&ensp;1. Individually click '(Un) Check All' on the far right for users whose access will need to
+be maintained as is.  Be sure to review all pages.</br>
+&emsp;&ensp;2. At the top of your screen, click on 'Record Management' and then 'Bulk Update' from
+ the drop-down list.</br>
+&emsp;&ensp;3. Press 'OK'</br>
+&emsp;&ensp;4. A new window will open. At the bottom of the form, please respond to the question, </br>
+&emsp;&ensp;&emsp;<b>'Does this person still need the authority to sign on behalf of the entity?'</b>
+choosing 'Yes' (YES = Keep User's access rights as-is to EBTPS Platform).</br>
+&emsp;&ensp;5. Then click update this record. This should complete the Certification for Users,
+whose access needs to remain as-is.</br></br>
+<b>Next, you need to certify the remaining users whose access should be REMOVED/REVOKED.</b></br></br>
+&emsp;&ensp;6. Individually click '(Un) Check All' on the far right for Users whose access needs to be</br> &emsp;&ensp;&emsp;REMOVED/REVOKED.  Be sure to review all pages.</br>
+&emsp;&ensp;7. At the top of your screen, click on 'Record Management' and then 'Bulk Update' from 
+the drop-down list.</br>
+&emsp;&ensp;8. Press 'OK' </br>
+&emsp;&ensp;9. A new window will open and at the bottom you can respond to the question,</br> 
+&emsp;&ensp;&emsp;<b> 'Does this person still need the authority to sign on behalf of the entity?'</b> by choosing 'No' (NO = Remove User's access rights to EBTPS Platform).</br>
+&emsp;&ensp;10. Then click update this record. This should complete the Certification for Users, whose access</br>&emsp;&ensp;&emsp;needs to Removed/Revoked.</br></br>
+To verify responses submitted, click on <a href="http://supportcentral.ge.com/dataforms/sup_dataform_viewall.asp?prod_id=1068912&xsl=geTemplate&form_id=1565712">Certification link above</a>, i.e. same link used to certify access. You will see your certification recorded in the Column to the right under "Does this person still need the authority to sign on behalf of the entity?" </br></br>
+YES = Keep access as-is, NO = Remove access, and Blank = Missing certification.</br></br>
+<b>Scenario B. The list of users you are viewing <span style=""color: red;"">MORE</span> than your direct reports:</b></br></br>
+&emsp;&ensp;1. At the top of the workflow, select the dropdown menu for 'Filter By' and click on 'Manager SSO'.</br>
+&emsp;&ensp;2. Then, type your SSO into the proceeding box.</br>
+&emsp;&ensp;3. Press search.</br>
+&emsp;&ensp;4. This will create a new list that only contains your direct reports. To complete the certification process, please go back to </br>
+&emsp;&ensp;&emsp;section A and start at step 1.</p>
+<p style=""color:darkgreen; font-size:20px;""><b>Thank you,</br>
+Banking Ops Admin Team</br></br></b>
+For Certification process related queries, please contact:</br>
+<b>Alexandra Varro: </b>alexandra.varro@BakerHughes.com</br></br>
+</pre><b>Note:</b> </br>
+&emsp;&ensp;1) An access revocation/removal WorkFlow will be submitted through an automated process if there is no action taken by Manager before end of Certification period </br>
+&emsp;&ensp;&emsp;(<b>3 weeks from start of Certification</b>). Once access is removed, any future requests to re-obtain access will need to be submitted thru Standard EBTPS WorkFlow approval process</br> 
+&emsp;&ensp;&emsp;(and will take few weeks/months to grant New Access).</br>
+&emsp;&ensp;2) This User Certification is performed at Bank/Institution level. One Certification to cover all bank accounts within a given bank.</br>
+&emsp;&ensp;&emsp;For more information about bank information you may also visit:</br>
+&emsp;&ensp;&emsp;<a href={2}>{2}</a></br>
+&emsp;&ensp;3) Internet Explorer is the preferred Web Browser for the Certification.</br>
+&emsp;&ensp;4) For details on Valerie BOT process info see:</br>
+&emsp;&ensp;&emsp;<a href="https://my.bakerhughes.com/sites/digital-technology-site/News/223218/valerie-hq-finance-rpa-bot">https://my.bakerhughes.com/sites/digital-technology-site/News/223218/valerie-hq-finance-rpa-bot</a></br>
+</br></br><pre>Copyright 2021 Baker Hughes Company. All rights reserved</pre></p>
+
+</body>
+</html>
